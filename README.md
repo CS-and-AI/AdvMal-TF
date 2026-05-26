@@ -8,8 +8,7 @@ We present a dataset of adversarial malware samples derived from the public [Raw
 | Family-labelled | 30 GB | 61 GB | 44,347 |
 | Type-labelled   | 45 GB | 82 GB | 33,596 |
 
-The dataset with raw binary binary files and JSON metadata is available for download from [Google Drive](https://drive.google.com/drive/folders/1nlBkE72J3oQmOQrMoF2GzNotYraltWE4?usp=sharing).
-
+The dataset with raw binary files and JSON metadata is available for download from [Google Drive](https://drive.google.com/drive/folders/1nlBkE72J3oQmOQrMoF2GzNotYraltWE4?usp=sharing).
 
 
 ## Metadata format
