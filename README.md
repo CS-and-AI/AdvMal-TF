@@ -36,4 +36,17 @@ The dataset with raw binary files and JSON metadata is available for download fr
 | `vt_adv_top10` | object | Same shape as above, evaluated on the adversarial binary |
 
 ## Citing
-TBD
+
+If you use this dataset in your research, please cite our [paper](https://arxiv.org/abs/2605.25937).
+
+```bibtex
+@misc{kostal2026buildingadversarialmalwaredataset,
+    title={Building an Adversarial Malware Dataset by Family and Type: Generation, Evasion, and Poisoning Evaluation}, 
+    author={David Košťál and Martin Jureček},
+    year={2026},
+    eprint={2605.25937},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    url={https://arxiv.org/abs/2605.25937}, 
+}
+```
